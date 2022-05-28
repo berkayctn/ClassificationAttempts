@@ -4,6 +4,6 @@ A code snippet about classifying a given dataset using 3 different classifiers i
 # Contents
 * Classification with 3 different classifier
 * Confusion Matrices
-* Accuracy score with using 10 Fold Cross Validation
+* Accuracy score using 10 Fold Cross Validation
 * Precision Score, Recall Score
 * Prediction of data given by user
